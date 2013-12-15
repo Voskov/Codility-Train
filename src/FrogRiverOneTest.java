@@ -11,7 +11,6 @@ public class FrogRiverOneTest {
         int[] A = {4,1,3,2};
         junit.framework.Assert.assertEquals("Should pass", 1, FrogRiverOne.solution(A));
     }
-    //Nothing
     @Test
     public void testOne(){
         int[] A = {1};
