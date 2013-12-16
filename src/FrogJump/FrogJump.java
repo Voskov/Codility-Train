@@ -1,3 +1,5 @@
+package FrogJump;
+
 /**
  * Created by Einstine on 12/12/13.
  */
